@@ -10,14 +10,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/akhil2k-lc/bookStoreApp.git"
+        "url": "git+https://github.com/apurva-119/TechShelf.git"
     },
     "author": "Apurva",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/akhil2k-lc/bookStoreApp/issues"
+        "url": "https://github.com/apurva-119/TechShelf/issues"
     },
-    "homepage": "https://github.com/akhil2k-lc/bookStoreApp#readme",
+    "homepage": "https://github.com/apurva-119/TechShelf#readme",
     "dependencies": {
         "bcryptjs": "^2.4.3",
         "cloudinary": "^1.41.3",

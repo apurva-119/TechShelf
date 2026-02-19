@@ -1,0 +1,48 @@
+[
+  { "id": 1, "name": "Programming in C – Stephen G. Kochan", "title": "Complete guide to C programming", "price": 0, "category": "Free", "image": "https://res.cloudinary.com/dl5jubz7x/image/upload/pg_1,f_jpg/v1768284519/Stephen_G._Kochan__Programming_in_C_A_Complete_I_BookFi_izizxl.pdf", "pdfUrl": "https://res.cloudinary.com/dl5jubz7x/image/upload/v1768284519/Stephen_G._Kochan__Programming_in_C_A_Complete_I_BookFi_izizxl.pdf" },
+  { "id": 2, "name": "Advanced Data Structures – Brass", "title": "Advanced concepts in data structures", "price": 0, "category": "Free", "image": "https://res.cloudinary.com/dl5jubz7x/image/upload/pg_1,f_jpg/v1768284516/Advanced_Data_Structures_Brass_2008-09-08_rc9mo8.pdf", "pdfUrl": "https://res.cloudinary.com/dl5jubz7x/image/upload/v1768284516/Advanced_Data_Structures_Brass_2008-09-08_rc9mo8.pdf" },
+  { "id": 3, "name": "Let Us C – Yashavant Kanetkar", "title": "C programming fundamentals", "price": 0, "category": "Free", "image": "https://res.cloudinary.com/dl5jubz7x/image/upload/pg_1,f_jpg/v1768284550/letusc_program_hsdywo.pdf", "pdfUrl": "https://res.cloudinary.com/dl5jubz7x/image/upload/v1768284550/letusc_program_hsdywo.pdf" },
+  { "id": 4, "name": "The C++ Programming Language – Bjarne Stroustrup", "title": "Definitive guide to C++", "price": 0, "category": "Free", "image": "", "pdfUrl": "" },
+  { "id": 5, "name": "Computer Fundamentals – P.K. Sinha", "title": "Introduction to computers", "price": 0, "category": "Free", "image": "https://res.cloudinary.com/dl5jubz7x/image/upload/pg_1,f_jpg/v1768284527/CFP_P.K.Sinha_book_zdgd5f.pdf", "pdfUrl": "https://res.cloudinary.com/dl5jubz7x/image/upload/v1768284527/CFP_P.K.Sinha_book_zdgd5f.pdf" },
+
+  { "id": 6, "name": "Cloud Computing Concepts & Technology", "title": "Cloud computing foundations", "price": 0, "category": "Free", "image": "https://res.cloudinary.com/dl5jubz7x/image/upload/pg_1,f_jpg/v1768284519/Cloud_Computing_Concepts_Technology_Architecture_lcug3z.pdf", "pdfUrl": "https://res.cloudinary.com/dl5jubz7x/image/upload/v1768284519/Cloud_Computing_Concepts_Technology_Architecture_lcug3z.pdf" },
+  { "id": 7, "name": "Cloud Computing Design Patterns", "title": "Architectural patterns for cloud", "price": 0, "category": "Free", "image": "", "pdfUrl": "" },
+
+  { "id": 8, "name": "Computer Networking – A Top Down Approach", "title": "Networking concepts and protocols", "price": 0, "category": "Free", "image": "", "pdfUrl": "" },
+
+  { "id": 9, "name": "Core Java Volume I – Fundamentals", "title": "Java programming basics", "price": 0, "category": "Free", "image": "https://res.cloudinary.com/dl5jubz7x/image/upload/pg_1,f_jpg/v1768284523/Core_Java_volume-I_fundamentals_nycfc5.pdf", "pdfUrl": "https://res.cloudinary.com/dl5jubz7x/image/upload/v1768284523/Core_Java_volume-I_fundamentals_nycfc5.pdf" },
+
+  { "id": 10, "name": "Data Science from Scratch", "title": "First principles of data science", "price": 0, "category": "Free", "image": "https://res.cloudinary.com/dl5jubz7x/image/upload/pg_1,f_jpg/v1768284533/Data_Science_from_Scratch__First_Principles_with_Python_-_PDF_Room_hg1t7f.pdf", "pdfUrl": "https://res.cloudinary.com/dl5jubz7x/image/upload/v1768284533/Data_Science_from_Scratch__First_Principles_with_Python_-_PDF_Room_hg1t7f.pdf" },
+
+  { "id": 11, "name": "Data Structures & Algorithms in Java – Michael Goodrich", "title": "DSA using Java", "price": 0, "category": "Free", "image": "https://res.cloudinary.com/dl5jubz7x/image/upload/pg_1,f_jpg/v1768284534/Data_Structures_Algorithms_in_Java_Michael_T_Goodrich_6th_Edition_is6zte.pdf", "pdfUrl": "https://res.cloudinary.com/dl5jubz7x/image/upload/v1768284534/Data_Structures_Algorithms_in_Java_Michael_T_Goodrich_6th_Edition_is6zte.pdf" },
+
+  { "id": 12, "name": "Data Structures and Algorithms – Granville", "title": "DSA concepts", "price": 0, "category": "Free", "image": "https://res.cloudinary.com/dl5jubz7x/image/upload/pg_1,f_jpg/v1768284524/Data_Structures_and_Algorithms_by_Granville_Barnett_2008_u5rwuk.pdf", "pdfUrl": "https://res.cloudinary.com/dl5jubz7x/image/upload/v1768284524/Data_Structures_and_Algorithms_by_Granville_Barnett_2008_u5rwuk.pdf" },
+
+  { "id": 13, "name": "Database System Concepts – Silberschatz", "title": "DBMS fundamentals", "price": 0, "category": "Free", "image": "", "pdfUrl": "" },
+
+  { "id": 14, "name": "DBMS – Ramakrishnan & Gehrke", "title": "Database systems", "price": 0, "category": "Free", "image": "", "pdfUrl": "" },
+
+  { "id": 15, "name": "Effective Java – Joshua Bloch", "title": "Best practices for Java", "price": 0, "category": "Free", "image": "https://res.cloudinary.com/dl5jubz7x/image/upload/pg_1,f_jpg/v1768284535/Effective_Java_w2leic.pdf", "pdfUrl": "https://res.cloudinary.com/dl5jubz7x/image/upload/v1768284535/Effective_Java_w2leic.pdf" },
+
+  { "id": 16, "name": "Hacking & Security Testing", "title": "Introduction to ethical hacking", "price": 0, "category": "Free", "image": "", "pdfUrl": "" },
+
+  { "id": 17, "name": "Hacking: The Art of Exploitation", "title": "Advanced security concepts", "price": 0, "category": "Free", "image": "https://res.cloudinary.com/dl5jubz7x/image/upload/pg_1,f_jpg/v1768284534/Hacking-_The_Art_of_Exploitation_2nd_ed._2008_-_Erickson_apcrw6.pdf", "pdfUrl": "https://res.cloudinary.com/dl5jubz7x/image/upload/v1768284534/Hacking-_The_Art_of_Exploitation_2nd_ed._2008_-_Erickson_apcrw6.pdf" },
+
+  { "id": 18, "name": "Introduction to Java Programming – Y. Daniel Liang", "title": "Java programming guide", "price": 0, "category": "Free", "image": "", "pdfUrl": "" },
+
+  { "id": 19, "name": "Introduction to Algorithms – CLRS", "title": "Algorithm design and analysis", "price": 0, "category": "Free", "image": "", "pdfUrl": "" },
+
+  { "id": 20, "name": "Learning SQL", "title": "SQL querying and database operations", "price": 0, "category": "Free", "image": "", "pdfUrl": "" },
+
+  { "id": 21, "name": "Operating Systems – Internals & Design Principles", "title": "OS concepts", "price": 0, "category": "Free", "image": "https://res.cloudinary.com/dl5jubz7x/image/upload/pg_1,f_jpg/v1768284550/Operating_Systems_-_Internals_and_Design_Principles_9th_Edition_by_W._Stallings.pdf", "pdfUrl": "https://res.cloudinary.com/dl5jubz7x/image/upload/v1768284550/Operating_Systems_-_Internals_and_Design_Principles_9th_Edition_by_W._Stallings.pdf" },
+
+  { "id": 22, "name": "Practical Statistics for Data Scientists", "title": "Statistics for data science", "price": 0, "category": "Free", "image": "https://res.cloudinary.com/dl5jubz7x/image/upload/pg_1,f_jpg/v1768284539/Practical_Statistics_for_Data_Scientists_zomvga.pdf", "pdfUrl": "https://res.cloudinary.com/dl5jubz7x/image/upload/v1768284539/Practical_Statistics_for_Data_Scientists_zomvga.pdf" },
+
+  { "id": 23, "name": "Effective Modern C++ – Scott Meyers", "title": "Modern C++ best practices", "price": 0, "category": "Free", "image": "https://res.cloudinary.com/dl5jubz7x/image/upload/pg_1,f_jpg/v1768284543/Scott_Meyers_-_Effective_Modern_C_fznd3k.pdf", "pdfUrl": "https://res.cloudinary.com/dl5jubz7x/image/upload/v1768284543/Scott_Meyers_-_Effective_Modern_C_fznd3k.pdf" },
+
+  { "id": 24, "name": "Software Engineering – Ian Sommerville", "title": "Software engineering principles", "price": 0, "category": "Free", "image": "https://res.cloudinary.com/dl5jubz7x/image/upload/pg_1,f_jpg/v1768284550/Software-Engineering-9th-Edition-by-Ian-Sommerville_m9jbmt.pdf", "pdfUrl": "https://res.cloudinary.com/dl5jubz7x/image/upload/v1768284550/Software-Engineering-9th-Edition-by-Ian-Sommerville_m9jbmt.pdf" },
+
+  { "id": 25, "name": "The Hacker Playbook 3", "title": "Practical penetration testing", "price": 0, "category": "Free", "image": "https://res.cloudinary.com/dl5jubz7x/image/upload/pg_1,f_jpg/v1768284555/The_Hacker_Playbook_3__Practical_Guide_To_Penetration_Testing_-_PDF_Room_yk4lyf.pdf", "pdfUrl": "https://res.cloudinary.com/dl5jubz7x/image/upload/v1768284555/The_Hacker_Playbook_3__Practical_Guide_To_Penetration_Testing_-_PDF_Room_yk4lyf.pdf" },
+
+  { "id": 26, "name": "The Art of Human Hacking", "title": "Social engineering concepts", "price": 0, "category": "Free", "image": "https://res.cloudinary.com/dl5jubz7x/image/upload/pg_1,f_jpg/v1768284562/The_Art_of_Human_Hacking_g8milb.pdf", "pdfUrl": "https://res.cloudinary.com/dl5jubz7x/image/upload/v1768284562/The_Art_of_Human_Hacking_g8milb.pdf" }
+]
